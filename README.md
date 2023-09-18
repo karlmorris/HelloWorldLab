@@ -14,4 +14,4 @@ constraints, views, and behaviors.
 # What Does The App Look Like in Action?
 
 Here is a screenshot of the app in the AndroidStudio emulator:
-![App Screenshot](../app/src/AppScreenshot.png)
+![App Screenshot](app/AppScreenshot.png)
